@@ -33,6 +33,14 @@ I'm a passionate designer and engineer with degrees in Architecture, transitioni
 
 ### |*Playground*| 
 ------------------------
-|<a href="https://unruffled-hodgkin-67caaa.netlify.app/"> NEWSGRID </a> | <a href="https://will-u-be-my-val.netlify.app/">VALENTINE </a> |
+| <a href="https://num-guessing-game1.netlify.app/"> Guess the number game </a> | <a href="https://live-counter.netlify.app/">Live counter </a> |
 |-- | -- |
+| <img  align="left"  width="380px" src="https://github.com/KikiXoxo/guess-the-number/blob/main/preview.png"/> |  <img  align="left"  width="380px" src="https://github.com/KikiXoxo/live-counter/blob/main/preview.png"/> |
+
+| <a href="https://will-u-be-my-val.netlify.app/">VALENTINE </a> |  <a href="https://brave-yonath-60b8f4.netlify.app/"> Sample Portfolio </a> |
+|-- | -- |
+| <img  align="left"  width="380px" src="https://github.com/KikiXoxo/valentine/blob/main/preview.png"/> |  <img  align="left"  width="380px" src="https://github.com/KikiXoxo/Portfolio/blob/main/preview.png"/> |
+
+| <a href="https://unruffled-hodgkin-67caaa.netlify.app/"> NEWSGRID </a> |  
+|-- |
 | <img  align="left"  width="380px" src="https://github.com/KikiXoxo/NewsGridsite/blob/main/preview.png"/> |  <img  align="left"  width="380px" src="https://github.com/KikiXoxo/valentine/blob/main/preview.png"/> |
