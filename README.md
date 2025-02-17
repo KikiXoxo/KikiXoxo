@@ -15,7 +15,7 @@ I’m a frontend developer with an architecture background, blending design prin
 
 - 📫 Want to connect or collaborate? [Send an email here](mailto:adeogoshekinah@gmail.com).
 
-- ⚡ Fun fact:  I'm a crochet artist in my spare time (yes, really
+- ⚡ Fun fact:  I'm a crochet artist in my spare time (yes, really!)
 
 <br> 
 
