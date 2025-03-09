@@ -53,14 +53,14 @@ I’m a frontend developer with an architecture background, blending design prin
 
 ##
 
-| <a href="https://num-guessing-game1.netlify.app/"> Guess the number game </a> | <a href="https://live-counter.netlify.app/">Live counter </a> |
+| <a href="https://membazclothing.com/"> MEMBAZ Clothing </a> | <a href="https://github.com/KikiXoxo/muse-music-app"> Muse Music App </a> |
 |-- | -- |
-| <img  align="center" src="https://github.com/KikiXoxo/guess-the-number/blob/main/preview.png"/> |  <img  align="center"   src="https://github.com/KikiXoxo/live-counter/blob/main/preview.png"/> |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/membaz-clothing-preview.png"/> |  <img  align="center"   src="https://github.com/KikiXoxo/KikiXoxo/blob/main/muse-music-preview.png"/> |
 
-| <a href="https://will-u-be-my-val.netlify.app/">VALENTINE </a> |  <a href="https://brave-yonath-60b8f4.netlify.app/"> Sample Portfolio </a> |
+| <a href="https://property-listing-site.netlify.app/"> Property Listing Site </a> |  <a href="https://notes-app-20.netlify.app/"> Vue Notes App </a> |
 |-- | -- |
-| <img  align="center" src="https://github.com/KikiXoxo/valentine/blob/main/preview.png"/> |  <img  align="center" src="https://github.com/KikiXoxo/Portfolio/blob/main/preview.png"/> |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/property-listing-preview.png"/> |  <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/notes-app-preview.png"/> |
 
-| <a href="https://unruffled-hodgkin-67caaa.netlify.app/"> NEWSGRID </a> |  
-|-- |
-| <img  align="left" width="50%"  src="https://github.com/KikiXoxo/NewsGridsite/blob/main/preview.png"/> |  
+| <a href="https://country-search1.netlify.app/"> Country Search Site </a> |  <a href="https://news-blog-site.netlify.app/"> News Blog </a> |
+|-- | -- |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/country-search-preview.png"/> |  <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/news-blog-preview.png"/> |
