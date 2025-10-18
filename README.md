@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shekinah</h1>
-<h3 align="center">Frontend Developer | Architect-Turned-Engineer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 
 ---
 
-I’m a frontend developer with an architecture background, blending design principles with code to build intuitive and visually compelling web experiences. My transition into software development has been driven by a passion for problem-solving and the connection between design and tech.  I’ve worked with a variety of tools, for personal projects and freelance work, and I’m always picking up new skills along the way to improve and refine my skills.
+I’m a frontend developer with an architecture background, blending design principles with code to build intuitive, clean and visually compelling web experiences.  I’ve worked with a variety of tools on different projects, focusing on creating interfaces that connect functionality with good design. I enjoy bringing ideas to life in the browser, and I’m always learning new ways to write cleaner, more efficient code that makes that process even better.
 
 
-- 💻 My stack includes **Vue.js, React.js, TypeScript, Tailwind.css**.
+- 💻 My stack includes **React.js, Vue.js, TypeScript and Tailwind CSS**.
   
-- 🏘 I have a Masters degree in Architecture and because of my design background, I bring a unique perspective to every project
+- 🏘 I have a Master’s degree in Architecture, which shapes how I think about design and structure in development.
 
-- 🌱 I’m currently exploring **Next.js**.
+- 🌱 I’m currently exploring **Webflow** to improve my design-to-build workflow.
 
 - 📫 Want to connect or collaborate? [Send an email here](mailto:adeogoshekinah@gmail.com).
 
 - ⚡ Fun fact:  I'm a crochet artist in my spare time (yes, really!)
+
+- 📑 Here's my <a href="https://drive.google.com/file/d/1ZaG0oUGHEgbwyNVeaDOd4o5kcX_XHwQt/view?usp=drivesdk" target="_blank"><u>resume</u></a>.
 
 <br> 
 
@@ -24,8 +26,8 @@ I’m a frontend developer with an architecture background, blending design prin
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://linkedin.com/in/shekinah-adeogo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://x.com/kii_nah_" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
+  <!-- <a href="https://x.com/kii_nah_" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a> -->
 </div>
 <br>
 
@@ -35,16 +37,34 @@ I’m a frontend developer with an architecture background, blending design prin
 
 ## 
 
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" /></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="Vue" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> <a href="https://tailwindcss.com/docs/installation/framework-guides" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" height="40" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="40" height="40" alt="Illustrator" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>  </p>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" title="TypeScript"  /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" title="Vue"  /></a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/></a> 
+  <a href="https://tailwindcss.com/docs/installation/framework-guides" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" alt="Bootstrap" height="40" /></a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"  title="SASS" width="40" height="40"/></a> 
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" title="Vite" /></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git" /></a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiZ5pLh8xccj2Vtmi3muPDeFtY-RKyIYflncpMmaYNx1e9gOkCU65rqVoHHRnkHZvbZY&usqp=CAU" width="40" height="40" alt="Axios" title="Axios" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="40" height="40" alt="Zustand" title="Zustand" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/></a> 
+  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="40" height="40" alt="Illustrator" title="Illustrator" /></a> 
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" title="Photoshop" /></a>  
+</p>
 
 <br>
 <br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kikixoxo&show_icons=true&locale=en&layout=compact" alt="kikixoxo" /></p> 
+<p align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=kikixoxo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kikixoxo" /></p> 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kikixoxo&show_icons=true&locale=en" alt="kikixoxo" /></p> -->
 
-<p align="center" > <img  src="https://komarev.com/ghpvc/?username=kikixoxo&label=Profile%20views&color=0e75b6&style=flat" alt="kikixoxo" /> </p>
+<!-- <p align="center" > <img  src="https://komarev.com/ghpvc/?username=kikixoxo&label=Profile%20views&color=0e75b6&style=flat" alt="kikixoxo" /> </p> -->
 <br>
 
 ---
