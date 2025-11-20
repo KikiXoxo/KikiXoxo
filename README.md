@@ -73,14 +73,14 @@ I’m a frontend developer with an architecture background, blending design prin
 
 ##
 
-| <a href="https://my-potstop.netlify.app/"> PotStop </a> | <a href="https://membazclothing.com/"> MEMBAZ Clothing </a> |
+| <a href="https://dish-hub.netlify.app/"> DishHub </a> | <a href="https://my-potstop.netlify.app/"> PotStop </a> |
 |-- | -- |
-| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/potstop-preview.png"/> |  <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/membaz-clothing-preview.png"/> |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/preview-imgs/dishhub-preview.png"/> | <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/potstop-preview.png"/> |
 
-| <a href="https://property-listing-site.netlify.app/"> Property Listing Site </a> | <a href="https://github.com/KikiXoxo/muse-music-app"> Muse Music App </a> |
+| <a href="https://membazclothing.netlify.app/"> MEMBAZ Clothing </a> | <a href="https://property-listing-site.netlify.app/"> Property Listing Site </a> |
 |-- | -- |
-| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/property-listing-preview.png"/> | <img  align="center"   src="https://github.com/KikiXoxo/KikiXoxo/blob/main/muse-music-preview.png"/> |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/membaz-clothing-preview.png"/> | <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/property-listing-preview.png"/> |
 
-| <a href="https://jobs-listing-site-react.netlify.app/"> Job Listings Site </a> |  <a href="https://notes-app-20.netlify.app/"> Vue Notes App </a> |
+| <a href="https://jobs-listing-site-react.netlify.app/"> Job Listings Site </a> | <a href="https://github.com/KikiXoxo/muse-music-app"> Muse Music App </a> |
 |-- | -- |
-| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/jobs-listing-preview.png"/> |  <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/notes-app-preview.png"/> |
+| <img  align="center" src="https://github.com/KikiXoxo/KikiXoxo/blob/main/jobs-listing-preview.png"/> |  <img  align="center"   src="https://github.com/KikiXoxo/KikiXoxo/blob/main/muse-music-preview.png"/>|
