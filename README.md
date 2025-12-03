@@ -60,7 +60,8 @@ I’m a frontend developer with an architecture background, blending design prin
 <br>
 <br>
 
-<p align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=kikixoxo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kikixoxo" /></p> 
+<!-- <p align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=kikixoxo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kikixoxo" /></p> --> <!-- inactive atm, alternative below -->
+<p align="center"><img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kikixoxo&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=10" alt="kikixoxo" /></p> 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kikixoxo&show_icons=true&locale=en" alt="kikixoxo" /></p> -->
 
