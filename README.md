@@ -17,7 +17,7 @@ I’m a frontend developer with an architecture background, blending design prin
 
 - ⚡ Fun fact:  I'm a crochet artist in my spare time (yes, really!)
 
-- 📑 Here's my <a href="https://drive.google.com/file/d/1lSFnPJFmCocp9L-6vAFlq9GJtUaw6swo/view" target="_blank"><u>resume</u></a>.
+- 📑 Here's my <a href="https://drive.google.com/file/d/19uIVjWB9ARN4lS6PV7RSO7APmy2J52cC/view" target="_blank"><u>resume</u></a>.
 
 <br> 
 
